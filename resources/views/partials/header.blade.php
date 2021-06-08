@@ -1,4 +1,4 @@
-<header class="main-header">
+<header >
     <div class="container">
     <ul>
         <li><img src="{{ asset('images/dc-logo.png') }}" alt=""></li>
@@ -7,7 +7,7 @@
                 <li><a href="" class="active">Comics</a></li>
                 <li><a href="">News</a></li>
             </ul>
-        </nav>
+
     </div>
 </header>
 
